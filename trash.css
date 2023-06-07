@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+body{background-color:#003}
+h1{font-family:Times New Roman; font-size:12px; text-align:justify; color:#FFF}
+.con3{background-image:url(tt_ca.jpg); background-size:cover}
+h2{font-family:Modern No. 20; font-size:12px; color:#FFF; text-align:justify}
+.ce{text-align:center}
+#def{ text-align:justify}
+.drt{ background-color:#CCF; font-family:Baskerville Old Face; font-size:12px; color:#036; display:inline-block}
+.kas{ background-color:#669; color:#FFF; display:inline-block}
+.fnd{ background-image:url(fnd.png);background-size:cover}
+.bdd{ background-color:#9CC; color:#669; font-family:Bodoni Bd BT; display:inline-block}
+.lapa{font-family:Bodoni Bd BT; font-size:12px; color:#FFF; text-align:justify}
+.fd{background-image:url(tt_cl.jpg); background-size:cover}
+h3{font-family:Century Schoolbook; font-size:12px; color:#FFF; text-align:justify}
+.ref{font-family:Arial; font-size:08px; color:#FFF; text-align:justify}
+h4 {color:#FFF ;font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; font-size: 40px; text-align:center;background-color:#36C ; border: thin ; border-style: double; border-radius: 20px }
+h5 {color:#9CF font-family: "Comic Sans MS", cursive; font-size: 20px; text-align:center;background-color:#069 ; border: medium #09C; border-style: dotted; border-radius: 15px }
+.abc{text-align:center}
